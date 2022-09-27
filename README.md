@@ -8,5 +8,6 @@
 
 ![image](https://user-images.githubusercontent.com/78794419/192655454-c3cdcc0b-59e9-4223-82a1-79b2b95147e5.png)
 
+https://www.showwcase.com/show/17490/react-props-css-usestate-tas-belanja
 
 https://www.youtube.com/watch?v=6P1JUZ8dgb0 
